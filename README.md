@@ -1,10 +1,13 @@
 # Bypath-releases
 
-A Windows client built on [Xray-core](https://github.com/XTLS/Xray-core).
+A client for Windows and Android built on [Xray-core](https://github.com/XTLS/Xray-core).
 
-|  Platform  |  Download  |
-|------------|------------|
-| Windows 10+, x64 | [Latest release (.msi)](../../releases/latest) |
+|  Platform  |  Version  | Download |
+|------------|-----------|----------|
+| Windows 10+, x64 | 1.2.3 | [Bypath-1.2.3.msi](../../releases/tag/v1.2.3) |
+| Android 8.0+, arm64 | 1.1.0 | [Bypath-1.1.0.apk](../../releases/tag/android-v.1.1.0) |
+
+All releases: [Releases](../../releases)
 
 ## Features
 
