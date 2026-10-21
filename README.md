@@ -4,7 +4,7 @@ A client for Windows and Android built on [Xray-core](https://github.com/XTLS/Xr
 
 |  Platform  |  Version  | Download |
 |------------|-----------|----------|
-| Windows 10+, x64 | 1.3.3 | [Bypath-1.3.3.msi](../../releases/tag/v1.3.3) |
+| Windows 10+, x64 | 1.4.1 | [Bypath-1.4.1.msi](../../releases/tag/v1.4.1) |
 | Android 8.0+, arm64 | 1.1.0 | [Bypath-1.1.0.apk](../../releases/tag/android-v.1.1.0) |
 
 All releases: [Releases](../../releases)
